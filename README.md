@@ -1,66 +1,63 @@
+
+<div align="center">
+
 # JASPRIT SINGH
-### SOFTWARE ENGINEER · APPLICATION ARCHITECTURE · FULL-STACK DEVELOPMENT
+
+### Software Engineer · Full-Stack Developer · Business Applications
+
+**Building business applications, ERP systems & e-commerce platforms**
+
+PHP · MySQL · JavaScript · Application Engineering
+
+</div>
+
+---
+
+## About
 
 I engineer web applications and business systems — transforming operational requirements into structured, functional and maintainable software.
 
-**19+ years in software development.**
-
-PHP · MySQL · Application Engineering · ERP · E-commerce
+With **19+ years in software development**, my work spans application architecture, backend engineering, database design, business workflows, ERP platforms, e-commerce systems and ongoing software maintenance.
 
 ---
 
-### `01` — ENGINEERING PROFILE
+## Engineering Focus
 
-My work centres on building and evolving software applications that support real business operations.
-
-From backend logic and relational database design to application workflows, integrations, access control and maintenance, I approach software as a complete system rather than isolated features.
-
-**Areas of engineering**
-
-- Business applications & ERP systems
-- Full-stack web application development
-- Backend architecture & business logic
-- Database design & SQL engineering
-- E-commerce & transactional workflows
-- Application security & access control
-- System integration & API development
-- Debugging, optimisation & maintenance
+| Domain | Focus |
+|---|---|
+| Business Systems | ERP, POS, management applications & workflows |
+| Full-Stack Development | End-to-end web application development |
+| Backend Engineering | PHP, application logic, APIs & integrations |
+| Database Engineering | SQL, relational design & data integrity |
+| E-commerce | Catalogue, cart, checkout & order processing |
+| Application Security | Authentication, authorisation & secure workflows |
 
 ---
 
-### `02` — TECHNICAL ENVIRONMENT
+## Technology Stack
 
-**BACKEND & DEVELOPMENT**
+**Backend:** PHP · MySQLi · Node.js
 
-PHP · PHP 8 · MySQLi · JavaScript · Node.js
+**Database:** MySQL · MariaDB · MongoDB · SQL
 
-**DATABASES**
+**Frontend:** JavaScript · HTML5 · CSS3 · Bootstrap
 
-MySQL · MariaDB · MongoDB · SQL · Database Design
+**Frameworks:** React · Vue
 
-**WEB TECHNOLOGIES**
+**Architecture:** MVC · REST APIs · JSON · Modular Applications
 
-HTML5 · CSS3 · Bootstrap · React · Vue
-
-**APPLICATION ARCHITECTURE**
-
-MVC · Modular Systems · REST APIs · JSON · Integration
-
-**ENGINEERING PRACTICES**
-
-Git · Testing · Debugging · Security · Code Review · Performance Optimisation
+**Tools:** Git · GitHub
 
 ---
 
-### `03` — SELECTED SYSTEMS
+## Featured Projects
 
-#### Restaurant ERP
-**Business Operations & Management Systems**
+### Restaurant ERP Management System
 
-A restaurant management application built around operational workflows and structured business processes.
+A modular restaurant management application built around business operations and multi-branch workflows.
 
 - POS & Order Management
-- Kitchen Order Ticket workflows
+- Kitchen Order Ticket Management
 - Payment Management
 - Expense Management
 - Inventory-related workflows
@@ -69,40 +66,35 @@ A restaurant management application built around operational workflows and struc
 
 `PHP` `MySQLi` `JavaScript` `ERP`
 
----
+### Sugandhika — E-commerce Platform
 
-#### Sugandhika
-**Direct-to-Consumer E-commerce**
-
-An e-commerce application focused on handmade candles and soaps, covering product management and transactional customer workflows.
+An e-commerce application focused on handmade candles and soaps.
 
 - Product & Catalogue Management
 - Shopping Cart
 - Checkout & Order Processing
-- Backend Administration
-- MVC Architecture
+- Administration
+- MVC-based development
 
 `PHP` `MySQL` `JavaScript` `E-commerce`
 
 ---
 
-### `04` — ENGINEERING PHILOSOPHY
+## Engineering Principles
 
-> Software should be structured, maintainable, secure and built around the problem it is supposed to solve.
-
-- Maintain existing systems intelligently.
-- Protect data integrity.
-- Design maintainable application structures.
-- Prioritise secure application workflows.
-- Debug at the root cause, not just the symptom.
-- Build solutions around real operational requirements.
+- Maintainable and modular software
+- Security & data integrity
+- Root-cause debugging
+- Practical application architecture
+- Continuous improvement
+- Reliable software maintenance
 
 ---
 
-### `05` — CONNECT
+<div align="center">
 
-**Portfolio** — [jaspritxbytebloom.com](https://www.jaspritxbytebloom.com)
+**Software that solves real business problems.**
 
-**LinkedIn** — [linkedin.com/in/jaspritxbytebloom](https://www.linkedin.com/in/jaspritxbytebloom)
+[Portfolio](https://www.jaspritxbytebloom.com) · [LinkedIn](https://www.linkedin.com/in/jaspritxbytebloom) · [GitHub](https://github.com/jaspritxbytebloom)
 
-**GitHub** — [github.com/jaspritxbytebloom](https://github.com/jaspritxbytebloom)
+</div>
