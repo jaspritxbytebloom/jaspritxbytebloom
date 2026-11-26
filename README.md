@@ -1,84 +1,108 @@
-# Hi, I'm Jasprit Singh 👋
+# JASPRIT SINGH
+### SOFTWARE ENGINEER · APPLICATION ARCHITECTURE · FULL-STACK DEVELOPMENT
 
-### Software Developer | PHP & MySQL | Full-Stack Application Development
+I engineer web applications and business systems — transforming operational requirements into structured, functional and maintainable software.
 
-Software Developer with extensive experience in developing, maintaining and improving web applications, business systems, ERP solutions, e-commerce platforms and database-driven applications.
+**19+ years in software development.**
 
-I focus on building practical, maintainable software solutions using PHP, MySQL, JavaScript and structured application architecture.
+PHP · MySQL · Application Engineering · ERP · E-commerce
 
 ---
 
-## 💻 Technical Skills
+### `01` — ENGINEERING PROFILE
 
-**Languages & Web Technologies**
-- PHP
-- JavaScript
-- HTML5
-- CSS3
+My work centres on building and evolving software applications that support real business operations.
 
-**Backend & Application Development**
-- PHP Application Development
+From backend logic and relational database design to application workflows, integrations, access control and maintenance, I approach software as a complete system rather than isolated features.
+
+**Areas of engineering**
+
+- Business applications & ERP systems
+- Full-stack web application development
+- Backend architecture & business logic
+- Database design & SQL engineering
+- E-commerce & transactional workflows
+- Application security & access control
+- System integration & API development
+- Debugging, optimisation & maintenance
+
+---
+
+### `02` — TECHNICAL ENVIRONMENT
+
+**BACKEND & DEVELOPMENT**
+
+PHP · PHP 8 · MySQLi · JavaScript · Node.js
+
+**DATABASES**
+
+MySQL · MariaDB · MongoDB · SQL · Database Design
+
+**WEB TECHNOLOGIES**
+
+HTML5 · CSS3 · Bootstrap · React · Vue
+
+**APPLICATION ARCHITECTURE**
+
+MVC · Modular Systems · REST APIs · JSON · Integration
+
+**ENGINEERING PRACTICES**
+
+Git · Testing · Debugging · Security · Code Review · Performance Optimisation
+
+---
+
+### `03` — SELECTED SYSTEMS
+
+#### Restaurant ERP
+**Business Operations & Management Systems**
+
+A restaurant management application built around operational workflows and structured business processes.
+
+- POS & Order Management
+- Kitchen Order Ticket workflows
+- Payment Management
+- Expense Management
+- Inventory-related workflows
+- Role-Based Access Control
+- Audit Logging
+
+`PHP` `MySQLi` `JavaScript` `ERP`
+
+---
+
+#### Sugandhika
+**Direct-to-Consumer E-commerce**
+
+An e-commerce application focused on handmade candles and soaps, covering product management and transactional customer workflows.
+
+- Product & Catalogue Management
+- Shopping Cart
+- Checkout & Order Processing
+- Backend Administration
 - MVC Architecture
-- REST APIs
-- Backend Development
-- Full-Stack Development
 
-**Database Technologies**
-- MySQL
-- MariaDB
-- SQL
-- Database Design
-
-**Frameworks & Tools**
-- Bootstrap
-- Git
-- Node.js
-
-**Software Engineering**
-- Software Architecture
-- Application Development
-- Requirements Analysis
-- Debugging & Troubleshooting
-- Software Testing
-- Application Security
-- Code Review
-- Performance Optimization
-
-**Business Systems**
-- ERP Applications
-- E-commerce Applications
-- Inventory Management
-- Order Management Systems
-- Content Management Systems
+`PHP` `MySQL` `JavaScript` `E-commerce`
 
 ---
 
-## 🚀 Featured Projects
+### `04` — ENGINEERING PHILOSOPHY
 
-### Restaurant ERP Management System
-A modular restaurant management application featuring POS, order management, Kitchen Order Ticket (KOT) management, payment management, expenses, RBAC and operational workflows.
+> Software should be structured, maintainable, secure and built around the problem it is supposed to solve.
 
-### Sugandhika E-commerce Platform
-A direct-to-consumer e-commerce application for handmade candles and soaps, focused on product management, shopping workflows, order processing and administrative functionality.
-
----
-
-## 🎯 Areas of Focus
-
-- Software Development
-- Business Application Development
-- Backend Development
-- Database Design
-- ERP Systems
-- E-commerce Development
-- Application Security
-- Software Maintenance & Optimization
+- Maintain existing systems intelligently.
+- Protect data integrity.
+- Design maintainable application structures.
+- Prioritise secure application workflows.
+- Debug at the root cause, not just the symptom.
+- Build solutions around real operational requirements.
 
 ---
 
-## 🌐 Connect With Me
+### `05` — CONNECT
 
-- **Portfolio:** https://www.jaspritxbytebloom.com
-- **LinkedIn:** https://www.linkedin.com/in/jaspritxbytebloom
-- **GitHub:** https://github.com/jaspritxbytebloom
+**Portfolio** — [jaspritxbytebloom.com](https://www.jaspritxbytebloom.com)
 
+**LinkedIn** — [linkedin.com/in/jaspritxbytebloom](https://www.linkedin.com/in/jaspritxbytebloom)
+
+**GitHub** — [github.com/jaspritxbytebloom](https://github.com/jaspritxbytebloom)
