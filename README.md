@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="github-banner.png" width="100%" alt="Jasprit Singh - Software Engineer | ByteBloom">
+</div>
 
+---
 <div align="center">
 
 # JASPRIT SINGH
